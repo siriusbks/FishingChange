@@ -1,0 +1,4 @@
+name: FishingChange
+version: '${project.version}'
+main: fr.nbstudio.fishingchange.FishingChange
+api-version: '1.18'
